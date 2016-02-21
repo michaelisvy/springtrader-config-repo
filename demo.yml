@@ -1,3 +1,5 @@
+greeting: nihao
+
 configserver: true
 
 eureka:
